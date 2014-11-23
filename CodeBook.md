@@ -52,8 +52,8 @@ These signals were used to estimate variables of the feature vector for each pat
 
 
 The set of variables that were estimated from these signals are: 
-*mean(): Mean value
-*std(): Standard deviation
+* mean(): Mean value
+* std(): Standard deviation
 
 From the aforementioned 17 signals, 8 have data for 3 directions (X,Y,Z) which gives us 24, plus remaining 9, which equals 33 signal.
 
